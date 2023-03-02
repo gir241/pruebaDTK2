@@ -1,8 +1,7 @@
-# Prueba ingreso a destacados
-### El siguiente manual tiene la finalidad de entregar las directrices para poder realizar la prueba de conocimientos backend
+# Prueba conocimeintos backend
 
 El postulante deberá consumir una api pública utilizando el framework laravel en su versión más actual.
-Es de libre elección utilizar librerias externas, pero todo el código debe estar comentado con una explicación de cada función y las libreiras utilizadas 
+Es de libre elección utilizar librerias externas, pero todo el código debe estar comentado con una explicación de cada función y las librerias utilizadas 
 
 ### Herramientas a utilizar
 
