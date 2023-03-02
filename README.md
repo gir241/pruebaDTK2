@@ -17,7 +17,7 @@ El postulante debe consumir la API de [Rick and morty] y listar los personajes m
 
 Se debe poder ver el detalle de cada personaje con una descripción más amplia y poder filtrar por **status** y **species**
 
-Todo el codigo debe ser versionado con git en un repositorio público y comentado, el primer commit debe ser con el proyecto en blanco y luego ir subiendo cada cambio o funcionalidad nueva.
+Todo el código debe ser versionado con git en un repositorio público y comentado, el primer commit debe ser con el proyecto en blanco y luego ir subiendo cada cambio o funcionalidad nueva.
 
 Si el proyecto se dockeriza dará un plus adicional.
 
