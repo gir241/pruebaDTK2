@@ -23,7 +23,7 @@ Si el proyecto se dockeriza dará un plus adicional.
 ### Tiempo y lugar
 
 - Todo el proceso debe ser realizado online.
-- El tiempo disponible para realizar la prueba será de 1 día.
+- El tiempo disponible para realizar la prueba será de 24 hrs.
 
 ## License
 
