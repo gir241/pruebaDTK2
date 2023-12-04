@@ -20,8 +20,6 @@ Todo el código debe ser versionado con git en un repositorio público y con su 
 
 Si el proyecto se dockeriza dará un plus adicional.
 
-Una vez terminado se debe hacer una demostración en vivo con todas las funcionalidades.
-
 ### Tiempo y lugar
 
 - Todo el proceso debe ser realizado online.
