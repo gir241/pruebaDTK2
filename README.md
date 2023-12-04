@@ -24,9 +24,8 @@ Una vez terminado se debe hacer una demostración en vivo con todas las funciona
 
 ### Tiempo y lugar
 
-- Todo el proceso debe ser realizado en nuestras oficinas ubicadas en Villaseca 21 Ñuñoa.
-- El tiempo disponible para realizar la prueba será de 2 horas.
-- La empresa pondra a dispcición todas las herramientas (notebook y lugar físico)
+- Todo el proceso debe ser realizado online.
+- El tiempo disponible para realizar la prueba será de 1 día.
 
 ## License
 
