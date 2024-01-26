@@ -12,7 +12,7 @@ Es de libre elección utilizar librerias externas, pero todo el código debe est
 
 ### Proceso
 
-El postulante debe consumir la API de [Rick and morty] y listar los personajes mostrando nombre y foto de cada uno ordenado alfabeticamente. El resultado debe ser paginado.
+El postulante debe consumir la API de [Rick and morty] y listar los personajes mostrando nombre y foto de cada uno ordenado alfabeticamente y por **gender**. El resultado debe ser paginado.
 
 Se debe poder ver el detalle de cada personaje con una descripción más amplia y poder filtrar por **status** y **species**
 
